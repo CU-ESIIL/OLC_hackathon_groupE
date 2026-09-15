@@ -13,14 +13,14 @@ public_mode_toggle: true
 !!! warning "Before writing on a public site"
     Use only material appropriate for public GitHub. Do not add culturally sensitive knowledge, protected locations, private or community-controlled data, personal information, restricted stewardship material, or claims of review or approval that have not occurred.
 
-# Sweatlodge Contamination
+# Sweat Lodge Contamination
 
 !!! note "First edit"
     Replace the page title and heading with your project name. Add a short subtitle that tells visitors what you are exploring.
 
     [Edit the team page in Markdown](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-*One sentence describing the question, place, or possibility your team is exploring.*
+What contaminants are found in our sweat lodge supplies?
 
 ![Team hero image](assets/hero/hero.png)
 
