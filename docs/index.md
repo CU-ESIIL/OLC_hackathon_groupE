@@ -42,8 +42,9 @@ What contaminants are found in our sweat lodge supplies?
 
 | Name | Affiliation | Contact | Starting role |
 |----|---|---|---|
-| Tokata Stands |  |  |  |
+| |  |  |  |
 Tokata Stands
+Kiahna Standing Bear
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Keep this fast"
@@ -51,13 +52,14 @@ Tokata Stands
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Air Quality
+- Water Quality
+- Rock Quality
+- Wood Quality
 
 Our decision rule:
 
-...
+What is the largest contamination concern in our sweat lodge supplies?
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
 
@@ -74,7 +76,7 @@ Our decision rule:
 
 Our working question:
 
-...
+
 
 What would count as progress by noon on September 16:
 
