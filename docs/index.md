@@ -56,11 +56,13 @@ Kiahna Standing Bear
 
 
 
-- Recognizing the change in air quality from using various rocks.
+- Recognizing the change in air quality from using various rocks and wood.
 
 Our decision rule:
 Does the type of rock change the ability and ease of breathing of participants 
 How does the air quality change depending on the type of rocks that are used in the pit?
+How does the health of the trees used for the sweat lodge shell contribute to the air quality?
+How exposed to pesticides do we become?
 
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
