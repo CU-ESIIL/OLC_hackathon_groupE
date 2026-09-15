@@ -106,7 +106,7 @@ Using a certain type of rock can lead to inhalation of particles that can expose
 
 Basalt rocks are a type of dense volcanic igneous rock that are composed of oxides like iron, potassium, magnesium and others that can potentially be used in the fire pit because they are porous, allowing extreme heat to be distributed and water cooling when producing steam but a concern that arises is the possible trace amounts of uranium.
 
-Amphibolite rocks are metaphoric rocks that have been formed through a cycle of molten rock, cooling, and pressure.
+Amphibolite rocks are metaphoric rocks that have been formed through a cycle of molten rock, cooling, and pressure; giving them the experience to potentially be used as a good pit rock.
 
 People who might use, question, or improve this work:
 
