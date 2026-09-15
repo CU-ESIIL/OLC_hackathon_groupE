@@ -53,6 +53,11 @@ Kiahna Standing Bear
     Choose two or three norms and one simple decision rule. A five-minute agreement now can prevent a long disagreement later.
 
 Our team norms:
+There are at least four elements that are incorporated into a sweat lodge; fire, water, earth, and wood. Each of these elements have potential contamination before and during the ceremony and can put participants at risk with the change in air quality.
+
+
+What type of rocks are chosen for the pit? Where are they collected from? 
+What water contaminants are present in the water that is poured on the rocks?
 
 - Recognizing Air & Water Quality
 - Recognizing Rock & Wood Quality
@@ -60,6 +65,7 @@ Our team norms:
 Our decision rule:
 
 What contributes to contamination concerns in our sweat lodge supplies?
+
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
 
