@@ -43,7 +43,7 @@ What contaminants are found in our sweat lodge supplies?
 | Name | Affiliation | Contact | Starting role |
 |----|---|---|---|
 |  |  |  |  |
-Tokata Stands
+Tokala Stands
 Kiahna Standing Bear
 
 
@@ -54,11 +54,11 @@ Kiahna Standing Bear
 
 
 
-- Recognizing the change in air quality from using certain rocks or 
+- Recognizing the change in air quality from using certain rocks.
 
 Our decision rule:
 
-What contributes to contamination concerns in our sweat lodge supplies?
+What contributes to contamination from using different types of rocks?
 
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
@@ -79,10 +79,8 @@ Our working question:
 There are at least four elements that are incorporated into a sweat lodge; fire, water, earth, and wood. Each of these elements have potential contamination before and during the ceremony and can put participants at risk with the change in air quality.**
 
 
-What type of rocks are chosen for the pit? Where are they collected from? What is their composition and how does that contribute to the change in air quality
-What water contaminants are present in the water that is poured on the rocks? 
 
-What potential pesticides were trees exposed to before being cut and trimmed to make the lodge shell?
+What contaminants are present in the air after water is poured on the rocks? 
 
 
 
