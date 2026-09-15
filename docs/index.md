@@ -20,7 +20,9 @@ public_mode_toggle: true
 
     [Edit the team page in Markdown](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-What contaminants are found in our sweat lodge supplies?
+What contaminants are exposed to participants inside a sweat lodge when a certain type of rock is used?
+
+
 
 ![Team hero image](assets/hero/hero.png)
 
@@ -58,7 +60,7 @@ Kiahna Standing Bear
 
 Our decision rule:
 
-What contributes to contamination from using different types of rocks?
+How does the air quality change when different types of rocks are used in the pit?
 
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
@@ -79,8 +81,7 @@ Our working question:
 There are at least four elements that are incorporated into a sweat lodge; fire, water, earth, and wood. Each of these elements have potential contamination before and during the ceremony and can put participants at risk with the change in air quality.**
 
 
-
-What contaminants are present in the air after water is poured on the rocks? 
+**What contaminants are exposed to participants inside a sweat lodge when a certain type of rock is used?**
 
 
 
@@ -100,11 +101,15 @@ What would count as progress by noon on September 16:
 
 This matters because:
 
-...
+Using a certain type of rock can lead to inhalation of particles that can expose you to health risks or increase an existing health concern.
+
+Basalt rocks are a type of dense volcanic igneous rock that are composed of oxides like iron, potassium, magnesium and others that can potentially be used in the fire pit because they are porous, allowing extreme heat to be distributed and water cooling when producing steam but a concern that arises is the possible trace amounts of uranium.
+
+Amphibolite rocks are metaphoric rocks that 
 
 People who might use, question, or improve this work:
 
-...
+Elders that have participated or build a sweat lodge can have traditional knowledge of what does and does not work. 
 
 ## What We Tried to Build 📣 { #what-we-tried-to-build .oasis-report-out-section }
 
