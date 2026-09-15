@@ -45,6 +45,7 @@ What contaminants are found in our sweat lodge supplies?
 | |  |  |  |
 Tokata Stands
 Kiahna Standing Bear
+
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Keep this fast"
