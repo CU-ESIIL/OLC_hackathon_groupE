@@ -43,7 +43,7 @@ What contaminants are found in our sweat lodge supplies?
 | Name | Affiliation | Contact | Starting role |
 |----|---|---|---|
 | Tokata Stands |  |  |  |
-
+Tokata Stands
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Keep this fast"
