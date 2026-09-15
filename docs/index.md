@@ -20,8 +20,8 @@ public_mode_toggle: true
 
     [Edit the team page in Markdown](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-What contaminants are exposed to participants inside a sweat lodge when a certain type of rock is used?
-
+What possible contaminants are exposed to participants inside a sweat lodge?
+The type of rock that is used in a sweat can have differing effects when the combination of heat and water are used. 
 
 
 ![Team hero image](assets/hero/hero.png)
@@ -56,11 +56,11 @@ Kiahna Standing Bear
 
 
 
-- Recognizing the change in air quality from using certain rocks.
+- Recognizing the change in air quality from using various rocks.
 
 Our decision rule:
-
-How does the air quality change when different types of rocks are used in the pit?
+Does the type of rock change the ability and ease of breathing of participants 
+How does the air quality change depending on the type of rocks that are used in the pit?
 
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
