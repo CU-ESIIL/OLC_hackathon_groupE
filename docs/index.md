@@ -76,7 +76,7 @@ How exposed to pesticides do we become?
     - **Data Investigator:** compare evidence, coverage, or assumptions.
     - **Technical Extender:** test or extend a reproducible method.
 
-    [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit the question and evidence](https://github.com/CU-ESIIL/OLC_hackathon_groupE/blob/main/docs/assets/hero/17975.jpg){ .md-button target="_blank" rel="noopener" }
 
 Our working question:
 **Our team norms:
