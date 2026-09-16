@@ -104,15 +104,27 @@ There are different elements that are incorporated into a sweat lodge, each of t
 
 **What contaminants are exposed to participants inside a sweat lodge when a certain type of rock is used?**
 
-Using a certain type of rock can lead to inhalation of particles that can expose you to health risks or increase an existing respiratory concerns.
+Using a certain type of rock can lead to inhalation of particles that can expose you to health risks or increase an existing respiratory concerns. 
+The temperature of a usual sweat lodge can reach up to 200 degrees if the rock's integrity falters if it cannot withstand 
 
-Basalt rocks are a type of dense volcanic igneous rock that are composed of oxides like iron, potassium, magnesium and others that can potentially be used in the fire pit because they are porous, allowing extreme heat to be distributed and water cooling when producing steam but a concern that arises is the possible trace amounts of uranium.
+Basalt rocks are a type of dense volcanic igneous rock that can potentially be used in the fire pit due to, extreme heat to be distributed and water cooling when producing steam but a concern that arises is the possible trace amounts of uranium.
 
-Amphibolite rocks are metaphoric rocks that have been formed through a cycle of molten rock, cooling, and pressure; giving them the experience to potentially be used as a good pit rock.
+Amphibolite rocks are metaphoric rocks that have been formed through a cycle of molten rock, cooling, and pressure; giving them the experience to potentially be used as a good pit rock without breaking apart.
 
-People who might use, question, or improve this work:
+**What contaminants are exposed to participants inside a sweat lodge when a certain type of wood is used?**
+Pine tree or Willow tree branches are options to creating the shell of the sweat lodge. The soil some trees are growing in could have been exposed to isotopes from uranium in the soil or local pesticides. 
 
-Elders that have participated or build a sweat lodge can have traditional knowledge of what does and does not work. With geology we can determine which rock is safe when exposed to extreme heat and spontaneous cooling to avoid rocks from cracking or exploding.
+**What contaminants are exposed to participants inside a sweat lodge when the water source contains trace amounts of uranium isotopes?**
+Water from the Inyan Kara aquifer naturally has trace amounts of uranium
+The state of South Dakota regulates public water to allow no more than 30 micrograms of radioactive material per liter  
+The state of South Dakota allows a regulation of radioactive material in public water but cannot exceed no more than 30 micrograms per liter.
+
+**People who might use, question, or improve this work:**
+
+Elders that have participated or build a sweat lodge could improve this work by teaching traditional knowledge of what stones do and do not work. With geology we can determine which rock is safe when exposed to extreme heat and spontaneous cooling to avoid rocks from cracking or exploding.
+
+
+A protected geiger counter could be taken into a sweat to monitor for a fluctuation in radiation, each element to the sweat lodge supplies would be tested individually to determine whether the radiation is coming from the one or more of the supplies. During the sweat with the combination of heat and water could release isotopes inside the pine branches, the rocks, and water.
 
 ## What We Tried to Build 📣 { #what-we-tried-to-build .oasis-report-out-section }
 
@@ -123,7 +135,7 @@ Elders that have participated or build a sweat lodge can have traditional knowle
 
 By the end of the Hackathon, we tried to make:
 
-...
+Information to build awareness of 
 
 Our chosen pathway and why it fit:
 
