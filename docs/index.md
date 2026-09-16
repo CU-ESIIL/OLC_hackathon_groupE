@@ -63,12 +63,13 @@ Does the type of rock change the ability and ease of breathing of participants
 How does the air quality change depending on the type of rocks that are used in the pit?
 How does the health of the trees used for the sweat lodge shell contribute to the air quality?
 How exposed to pesticides do we become?
+Also if the rocks are contaminated with uranium are from an old mine the rocks would put into the fire and the people inside would breath all of the uranium steam.
 
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
 
 !!! note "Question → Evidence"
-    Write one question narrow enough to investigate during the Hackathon. Name what would count as progress. The question can change when the evidence shows it should.
+    question; What else then uranium could be contamanating the sweat lodg
 
     The three OLC pathways are parallel options, not ability levels:
 
@@ -99,7 +100,7 @@ What would count as progress by noon on September 16:
     Explain the potential value and intended audience. Do not describe an impact, partnership, consultation, or endorsement that has not happened.
 
 This matters because:
-There are different elements that are incorporated into a sweat lodge, each of these elements have potential contamination before and during the ceremony and can put participants at risk with the change in air quality and the vaporization from the rocks.**
+There are different elements that are incorporated into a sweat lodge, each of these elements have potential contamination before and during the ceremony and can put participants at risk with the change in air quality and the vaporization from the rocks.**                   This also matters because how else would we know why we would be getting sick and loosing hair which is also some of the symptoms of uranium and also how to detect this uranium is  y a geiger counter. A geiger counter is a small electronic device that dings when it found radions also like beta particals that is also like uranium but is much much smaller and is small as a bacteria the symptoms are redness  burns  and dizziness this is called "Acute Radions syndrome"
 
 
 **What contaminants are exposed to participants inside a sweat lodge when a certain type of rock is used?**
