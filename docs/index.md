@@ -24,8 +24,7 @@ What possible contaminants are exposed to participants inside a sweat lodge?
 The type of rock that is used in a sweat can have differing effects when the combination of heat and water are used. 
 
 
-![Team hero image](assets/hero/<img width="1200" height="900" alt="17975" src="https://github.com/user-attachments/assets/77c0b042-ad8e-4c8a-9ac0-cc955869169b" />
-)
+![Team hero image](assets/hero/https://www.worldhistory.org/img/c/p/1200x900/17975.jpg)
 
 !!! note "Replace the hero image"
     Upload a wide public-safe image to `docs/assets/hero/` and replace `hero.png`, or update the Markdown path above. Write alt text that explains the image.
